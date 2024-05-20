@@ -1,0 +1,3 @@
+<h1> Determining High Risk Levels for Lung Cancer Based on Risk Factors</h1>
+<h2>Overview</h2>
+The dataset "Lung Cancer Prediction" contains data of 1,000 patients with lung cancer on their medical information such as the patient's id, age, and gender as well as the amounts of "external" exposure that they were involved in prior to lung cancer on a numerical scale. Using information in this dataset, we determined what "external" exposures or risk factors mostly cause a high risk for developing lung cancer and predicted whether an individual has a high, medium or low risk of developing lung cancer.
